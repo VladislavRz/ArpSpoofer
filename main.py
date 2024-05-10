@@ -1,5 +1,3 @@
-import scapy.config
-
 from spoofer import *
 from enum import Enum
 import argparse
